@@ -9,7 +9,7 @@
 baseurl = "https://PeterCrisp.github.io/"
 
 # Title of your site
-title = "Academic"
+title = "Peter Crisp"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -57,21 +57,22 @@ enableGitInfo = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Dr. Peter Crisp"
+  role = "Postdoctorial Associate"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Stanford University", url = "" } ]
+  organizations = [ { name = "University of Minnesota", url = "https://cbs.umn.edu/springer-lab/home" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
+  email = "pedrocrisp at gmail.com"
+  address = "University of Minnesota, Department of Plant and Microbial Biology, 140 Gortner Laboratory, 1479 Gortner Avenue, St Paul, MN 55108"
+  office_hours = "email for appointment"
+  lab = [ { name = "Springer lab", url = "https://cbs.umn.edu/springer-lab/home" } ]
+  UMN = "https://experts.umn.edu/en/persons/peter-crisp"
+  phone = ""
+  skype = ""
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
@@ -227,22 +228,22 @@ enableGitInfo = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fas"
-    link = "mailto:test@example.org"
+    link = "mailto:pedrocrisp@gmail.com"
 
   [[params.social]]
     icon = "twitter"
     icon_pack = "fab"
-    link = "//twitter.com/GeorgeCushen"
+    link = "//twitter.com/pete_crisp"
 
   [[params.social]]
     icon = "google-scholar"
     icon_pack = "ai"
-    link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
+    link = "https://scholar.google.com/citations?user=BAVfSlIAAAAJ"
 
   [[params.social]]
     icon = "github"
     icon_pack = "fab"
-    link = "//github.com/gcushen"
+    link = "//github.com/pedrocrisp"
 
   # Link to a PDF of your resume/CV from the About widget.
   # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.

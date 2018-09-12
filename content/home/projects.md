@@ -8,7 +8,7 @@ title = "Projects"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 50
+weight = 10
 
 # Content.
 # Display content from the following folder.
@@ -43,3 +43,4 @@ filter_default = 0
 
 +++
 
+My researches focuses on DNA methylation, which is known to underlie epigenetic control of some traits and is often - but not universally - stably inherited in plants. There are many unanswered questions concerning the origin, inheritance, stability and functional relevance of epialleles in large crop genomes.  These questions are critical for a complete understanding of fundamental principles of genetics and will greatly affect the potential application and utility of epigenetic information for plant breeding and modern agriculture. 

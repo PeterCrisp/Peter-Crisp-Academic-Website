@@ -10,31 +10,32 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "Artificial Intelligence",
-    "Computational Linguistics",
-    "Information Retrieval"
+  "Crop Epigenomics",
+  "DNA methylation",
+  "RNA stability",
+  "Abiotic stress recovery",
+  "Bioinformatics",
+  "Reproducibility in science"
   ]
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Plant Biology"
+  institution = "Australian National University"
+  year = 2016
 
-[[education.courses]]
-  course = "MEng in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2009
+  [[education.courses]]
+      course = "BSc in Science"
+      institution = "Australian National University"
+      year = 2009
 
-[[education.courses]]
-  course = "BSc in Artificial Intelligence"
-  institution = "Massachusetts Institute of Technology"
-  year = 2008
- 
+  [[education.courses]]
+    course = "LLB in Laws"
+    institution = "Australian National University"
+    year = 2008
+
 +++
 
-# Biography
+# Epigenomics in crops
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+The guiding paradigm for my research is understanding the contribution of epigenetics to heritable phenotypic variation in crop plants.  Epigenetics refers to the heritable transmission of information that is not solely due to DNA sequence.  My goal is to understand the role of epigenetics in trait variation in plants and learning when, how and why epigenetic traits (“epialleles”) can be passed through cell divisions to daughter cells or across generations.
